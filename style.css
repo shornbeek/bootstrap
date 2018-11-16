@@ -1,0 +1,21 @@
+.btn {
+ 
+    padding: 10px;
+    margin-top: 25px;
+}
+
+body {
+
+ width: 1024px; 
+}
+
+img {
+    width: 25%;
+    height: 25%;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    background-color: red;
+}
+
+
